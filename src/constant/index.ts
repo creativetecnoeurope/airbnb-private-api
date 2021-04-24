@@ -3,7 +3,7 @@ import { Endpoints, UserAgents } from '../types';
 
 export const user_agents: UserAgents[] = [
     {
-        user_agent: 'Airbnb/21057117 AppVersion/20.07.1 Android/10.0 Device/Pixel 2 XL Carrier/US T-MOBILE Type/Phone',
+        user_agent: 'Airbnb/21057117 AppVersion/21.15.0 Android/10.0 Device/Pixel 2 XL Carrier/US T-MOBILE Type/Phone',
         screen_size: 'w=360.0;h=640.0',
     },
 ];
